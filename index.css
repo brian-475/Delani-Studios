@@ -19,7 +19,7 @@ h3{
 }
 h4{
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     color:black;
     margin-top:20px;
     margin-bottom: 20px;
@@ -44,7 +44,7 @@ p{
 }
 h5{
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     color:white; 
 }
 .love{
@@ -84,7 +84,7 @@ h5{
 }
 .five{
     float:center;
-    font-size:50px;
+    font-size:40px;
     font-weight:bolder;
     margin-top:25px;
     margin-left:130px;
