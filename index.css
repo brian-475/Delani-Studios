@@ -171,14 +171,141 @@ input[type=text],input[type=email],#textarea{
     margin-right: 80px;
 
 }
+.class1{
+    color:red;
+}
+.twenty{
+    display:none;
+    margin-right: 80px;
+
+}
+.building{
+    display:none;
+}
 .building{
     display:none;
 }
 .design2{
     display:none;
 }
+
 #first{
     display: none;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#second{
+    display:none;
+    background-color: white;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#third{
+    display:none;
+    background-color: white;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#fourth{
+    display:none;
+    background-color: white;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#fifth{
+    display:none;
+    background-color:white;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#sixth{
+    display:none;
+    background-color: white;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#seventh{
+    display:none;
+    background-color: white; background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
+}
+#none{
+    display:none;
+    background-color:white;
+    background-color:white;
+    position: absolute;
+    top:25% ;
+    left: 25%;
+    border:5px solid white ;
+    opacity: 0.5;
+    width:50% ;
+    height:30%;
+     align-items: center;
+     justify-content: center;
+     font-size:30px ;
 }
 .col-sm-3:hover{
     cursor: pointer;
@@ -203,4 +330,10 @@ input[type=text],input[type=email],#textarea{
 }
 #fifth{
     display:none;
+}
+#post{
+    color: white;
+    text-align: center;
+    font-size: larger;
+    
 }
